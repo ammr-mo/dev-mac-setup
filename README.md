@@ -16,8 +16,10 @@ or follow instructions on the [official website](https://brew.sh/)
 Iterm2 is highly customizable and comes with a lot of useful features.
 
 Now that you have homebrew installed:
-```bash
+This command is no longer supported in newer versions
 brew cask install iterm2
+```bash
+brew install iterm2 --cask
 ```
 
 Let's open up iterm!
@@ -50,8 +52,10 @@ Install oh-my zsh
 We will come back to themeing zsh, for now lets move on to installing an my favourite ide
 
 ## Installing [VSCode](https://code.visualstudio.com/) (the last ide you will ever need)
-```bash
+This command is no longer supported in newer versions
 brew cask install visual-studio-code
+```bash
+brew install visual-studio-code --cask
 ```
 Now you can use `code (file_path|dir_path| )` to open a file, directory, or just the ide itself.
 
